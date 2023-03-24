@@ -1,0 +1,432 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Designer - Post and Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-05 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: includes/admin/bdpw-how-it-work.php:242
+msgid "100% Multilanguage."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:228
+msgid "13 Designs for Blog Post Grid Box."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:222
+msgid "130+ stunning and cool layouts."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:226
+msgid "24 Designs for Blog Post Masonry Layout."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:225
+msgid "45 Designs for Blog Post Slider/Carousel."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:230
+msgid "5 types of Widgets (Grid, slider and list etc)."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:224
+msgid "50 Designs for Blog Post Grid."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:229
+msgid "8 Designs for Blog Post Grid Box Slider."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:227
+msgid "8 Designs for Blog Post List View."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:223
+msgid "8 Shortcodes."
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:114
+msgid "All"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:81
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:130
+msgid "Ascending"
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:37
+msgid "Blog Designer"
+msgstr ""
+
+#. Name of the plugin
+msgid "Blog Designer - Post and Widget"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:217
+msgid "Blog Designer Premium Features"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:238
+msgid "Blog display with categories."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:84
+msgid "Blog Grid Shortcode"
+msgstr ""
+
+#: templates/grid/design-1.php:39 templates/grid/design-2.php:28
+#: templates/slider/design-1.php:28 templates/slider/design-2.php:30
+msgid "By"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:108
+msgid "Category"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:93
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:102
+msgid "Check Free Demo"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:237
+msgid "Custom Read More link for Blog Post."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:99
+msgid "Demo"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:129
+msgid "Descending"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:101
+msgid "Display Category"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:93
+msgid "Display Date"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display Post on your website with 2 designs(Grid and Slider) with 1 widget. "
+"Also work with Gutenberg shortcode block."
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:28
+msgid "Displayed Latest WP Post in list view "
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:234
+msgid "Divi Page Builder Native Support."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:90
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:239
+msgid ""
+"Drag & Drop feature to display Blog post in your desired order and other 6 "
+"types of order parameter."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:233
+msgid "Elementor, Beaver and SiteOrigin Page Builder Support."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:204
+#, php-format
+msgid ""
+"Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" "
+"target=\"_blank\">5 stars!"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:153
+msgid "False"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:235
+msgid "Fusion Page Builder (Avada) native support."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:244
+#, php-format
+msgid "Gain access to %sBlog Designer - Post and Widget Pro%s"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:56
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:245
+msgid "Grab Blog Designer Now"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:161
+#: includes/admin/bdpw-how-it-work.php:184
+msgid "Grab Now"
+msgstr ""
+
+#: includes/bdpw-functions.php:236
+msgid "Grid Design 1"
+msgstr ""
+
+#: includes/bdpw-functions.php:237
+msgid "Grid Design 2"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:231
+msgid "Gutenberg Block Support."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:115
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:200
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:123
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:37
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:48
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:69
+msgid "How Shortcode Works"
+msgstr ""
+
+#. Author URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugin/blog-designer-post-and-"
+"widget/"
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:92
+msgid "ID:"
+msgstr ""
+
+#: blog-designer-post-and-widget.php:175
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:29
+#: includes/widget/latest-post-widget.php:33
+msgid "Latest Blog Post List"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:143
+msgid "Need Support & Solutions?"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:233
+#: includes/admin/bdpw-how-it-work.php:234
+#: includes/admin/bdpw-how-it-work.php:235
+msgid "New"
+msgstr ""
+
+#: includes/bdpw-functions.php:181 includes/shortcode/wpsp-post.php:171
+msgid "Next"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:84
+msgid "Number of Items"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:126
+#: includes/widget/latest-post-widget.php:137
+msgid "Order"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:142
+msgid "Post Author"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:140
+msgid "Post Date"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:31 includes/shortcode/wpsp-post.php:39
+#: includes/shortcode/wpsp-recent-post-slider.php:39
+msgid "Post Grid View - Shortcode"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:141
+msgid "Post ID"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:144
+msgid "Post Modified Date"
+msgstr ""
+
+#: includes/shortcode/wpsp-recent-post-slider.php:31
+msgid "Post Slider View - Shortcode"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:143
+msgid "Post Title"
+msgstr ""
+
+#: includes/bdpw-functions.php:180 includes/shortcode/wpsp-post.php:172
+msgid "Previous"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:145
+msgid "Random"
+msgstr ""
+
+#: templates/grid/design-1.php:55 templates/grid/design-2.php:53
+#: templates/slider/design-1.php:39 templates/slider/design-2.php:47
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:85
+msgid "Recent Post Slider Shortcode"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:148
+#: includes/shortcode/wpsp-recent-post-slider.php:144
+msgid "Replies"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:148
+#: includes/shortcode/wpsp-recent-post-slider.php:144
+msgid "Reply"
+msgstr ""
+
+#: includes/bdpw-functions.php:251
+msgid "Slider Design 1"
+msgstr ""
+
+#: includes/bdpw-functions.php:252
+msgid "Slider Design 2"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:241
+msgid "Slider RTL support."
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:40
+msgid "Solutions & Features"
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:40
+msgid "Solutions & Features - blog-designer-for-post-and-widget"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:73
+msgid "Step-1. Create a page like Blog"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:60
+msgid "Step-1. Go to \"Post --> Add New\"."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:127
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:61
+msgid "Step-2. Add post title, description and images"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:74
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:128
+msgid ""
+"Step-2. Search \"post grid\" and \"post slider\" keyword in the Gutenberg "
+"block list."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:129
+msgid ""
+"Step-3. Add any block of blog designer and you will find its relative "
+"options on the right end side."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:62
+msgid "Step-3. Select Category and Tags"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:151
+msgid "Sticky Posts"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:146
+#: includes/shortcode/wpsp-recent-post-slider.php:142
+msgid "Tags: "
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:232
+msgid "Template overriding feature support."
+msgstr ""
+
+#: blog-designer-post-and-widget.php:174
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:76
+msgid "Title"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:154
+msgid "True"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:240
+msgid ""
+"Two type Pagination with Next – Previous or Numeric type support with grid "
+"layout."
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:43
+msgid "Upgrade To Premium "
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:43
+msgid "Upgrade To PRO - Blog Designer"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:236
+msgid "WPBakery Page Builder Supports."
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:247
+msgid "WPOS Blocks"
+msgstr ""
